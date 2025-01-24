@@ -4,7 +4,7 @@
       "Board": "ESP32S3_DEV",
       "Version": "2.0.0",
       "Device": "74:4D:BD:24:7A:B4",
-      "URL": "https://github.com/cmon-del/OTApublic/tree/main/Basic_OTA_Example_mine.bin"
+      "URL": "https://github.com/cmon-del/OTApublic/blob/main/new_bin.bin"
     }
   ]
 }
